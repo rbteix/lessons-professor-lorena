@@ -1,0 +1,15 @@
+Id_cliente,Rendimento,Idade,Tamanho_família,Comprou_antes,Comprou_anunciado
+C1,1000,42,Grande,Sim,Não
+C2,2000,50,Grande,Não,Não
+C3,10000,44,Grande,Sim,Sim
+C4,5000,32,Grande,Sim,Sim
+C5,4000,29,Pequena,Sim,Sim
+C6,3500,25,Pequena,Não,Não
+C7,8000,27,Pequena,Não,Sim
+C8,1200,35,Grande,Sim,Não
+C9,900,22,Pequena,Sim,Sim
+C10,4500,38,Pequena,Sim,Sim
+C11,1900,37,Pequena,Não,Sim
+C12,7500,35,Grande,Não,Sim
+C13,9000,55,Pequena,Sim,Sim
+C14,4000,34,Grande,Não,Não
